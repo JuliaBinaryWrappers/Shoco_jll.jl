@@ -1,0 +1,143 @@
+[[Shoco]]
+arch = "aarch64"
+git-tree-sha1 = "af9bc16ca5a32baa1ff576f7f32cc477ee97ba86"
+os = "macos"
+
+    [[Shoco.download]]
+    sha256 = "8c0617eeae988c88b6e632ceaa377f8c42588dba7bdfc1c5915fb69be35fffee"
+    url = "https://github.com/JuliaBinaryWrappers/Shoco_jll.jl/releases/download/Shoco-v2015.10.8+0/Shoco.v2015.10.8.aarch64-apple-darwin.tar.gz"
+[[Shoco]]
+arch = "aarch64"
+git-tree-sha1 = "ede6682ca852b3d4c2911c27f8c202e70c037baa"
+libc = "glibc"
+os = "linux"
+
+    [[Shoco.download]]
+    sha256 = "09059c9d3ad95af1ca7b53738ab0749b4b4b1a9054e1b5436f242d271ec0b0ce"
+    url = "https://github.com/JuliaBinaryWrappers/Shoco_jll.jl/releases/download/Shoco-v2015.10.8+0/Shoco.v2015.10.8.aarch64-linux-gnu.tar.gz"
+[[Shoco]]
+arch = "aarch64"
+git-tree-sha1 = "989ffd3a21e1eae4a423f53f461c4cc3e345fd40"
+libc = "musl"
+os = "linux"
+
+    [[Shoco.download]]
+    sha256 = "48504a6a5ccf5c9a75d47f0bb1949760dc4cdfc67f3d8684877719df296788ad"
+    url = "https://github.com/JuliaBinaryWrappers/Shoco_jll.jl/releases/download/Shoco-v2015.10.8+0/Shoco.v2015.10.8.aarch64-linux-musl.tar.gz"
+[[Shoco]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "357ff62920ac1a1a612375d1b5fc7af7abfe2c10"
+libc = "glibc"
+os = "linux"
+
+    [[Shoco.download]]
+    sha256 = "e26aa067899cfd3838800da8f93b2f95726175cee25112a4ee1eb88117bc5c8e"
+    url = "https://github.com/JuliaBinaryWrappers/Shoco_jll.jl/releases/download/Shoco-v2015.10.8+0/Shoco.v2015.10.8.armv6l-linux-gnueabihf.tar.gz"
+[[Shoco]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "ecf328df7c272aa8ba1a92c631e64229113d7761"
+libc = "musl"
+os = "linux"
+
+    [[Shoco.download]]
+    sha256 = "7b0313670fee586136d0def66d751de8dbdaf0a7af6cb3d7340b5037eb161ea0"
+    url = "https://github.com/JuliaBinaryWrappers/Shoco_jll.jl/releases/download/Shoco-v2015.10.8+0/Shoco.v2015.10.8.armv6l-linux-musleabihf.tar.gz"
+[[Shoco]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "68b8981614aef0fd331c54bddcb162e90166bd8d"
+libc = "glibc"
+os = "linux"
+
+    [[Shoco.download]]
+    sha256 = "09548eefa7000e471b402dbabe21da39c8d2308c6fa36f0552e24a4360d2c062"
+    url = "https://github.com/JuliaBinaryWrappers/Shoco_jll.jl/releases/download/Shoco-v2015.10.8+0/Shoco.v2015.10.8.armv7l-linux-gnueabihf.tar.gz"
+[[Shoco]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "f928af5db443e73b40ebcaee1fdd09a4103ca011"
+libc = "musl"
+os = "linux"
+
+    [[Shoco.download]]
+    sha256 = "5b9fb54afa3bbdcb0746c6ce7ccbd7aa5e422c645ff528b997d077dfdff8353a"
+    url = "https://github.com/JuliaBinaryWrappers/Shoco_jll.jl/releases/download/Shoco-v2015.10.8+0/Shoco.v2015.10.8.armv7l-linux-musleabihf.tar.gz"
+[[Shoco]]
+arch = "i686"
+git-tree-sha1 = "cda6e441eedf3b7616480b0733e8c10d698a0841"
+libc = "glibc"
+os = "linux"
+
+    [[Shoco.download]]
+    sha256 = "80e5e5a814207be56380b8a483f71021285c8bde8539c137bf53208dcb16ff6e"
+    url = "https://github.com/JuliaBinaryWrappers/Shoco_jll.jl/releases/download/Shoco-v2015.10.8+0/Shoco.v2015.10.8.i686-linux-gnu.tar.gz"
+[[Shoco]]
+arch = "i686"
+git-tree-sha1 = "d6a8aec6f509f14b49ac8fb0b5fb0fd29f8e3dca"
+libc = "musl"
+os = "linux"
+
+    [[Shoco.download]]
+    sha256 = "00150a18e6e5f308a8fcb4ea7d4a78f960dc107b48cf2ebb1e57091ce3b657d1"
+    url = "https://github.com/JuliaBinaryWrappers/Shoco_jll.jl/releases/download/Shoco-v2015.10.8+0/Shoco.v2015.10.8.i686-linux-musl.tar.gz"
+[[Shoco]]
+arch = "i686"
+git-tree-sha1 = "fd84f1023e95c9dcc5a0b64add9361877f02d1d8"
+os = "windows"
+
+    [[Shoco.download]]
+    sha256 = "2afb4651a44fc5dff90bedac91d9200c29e8b7f372151a52af29c8aea434e340"
+    url = "https://github.com/JuliaBinaryWrappers/Shoco_jll.jl/releases/download/Shoco-v2015.10.8+0/Shoco.v2015.10.8.i686-w64-mingw32.tar.gz"
+[[Shoco]]
+arch = "powerpc64le"
+git-tree-sha1 = "b336eeafefacc421c9d4b90e132345a99389b3c6"
+libc = "glibc"
+os = "linux"
+
+    [[Shoco.download]]
+    sha256 = "4f1f0f1ca88d5ab66e02a3f3434d7059f27a378e1a1fb199bd33154c3ed13452"
+    url = "https://github.com/JuliaBinaryWrappers/Shoco_jll.jl/releases/download/Shoco-v2015.10.8+0/Shoco.v2015.10.8.powerpc64le-linux-gnu.tar.gz"
+[[Shoco]]
+arch = "x86_64"
+git-tree-sha1 = "39cf892259ab1473bc85da4407dd13338d340323"
+os = "macos"
+
+    [[Shoco.download]]
+    sha256 = "0ea404716820805d4361e67972b68f9f659e451d3f06a4a9b37d596597bdd4ff"
+    url = "https://github.com/JuliaBinaryWrappers/Shoco_jll.jl/releases/download/Shoco-v2015.10.8+0/Shoco.v2015.10.8.x86_64-apple-darwin.tar.gz"
+[[Shoco]]
+arch = "x86_64"
+git-tree-sha1 = "ce836d64bd34b074eed192cac600c878774d65d5"
+libc = "glibc"
+os = "linux"
+
+    [[Shoco.download]]
+    sha256 = "a1f758c73e4ca86cac40d1b21fede637bec9194fc36e33d51a97e468cb392eda"
+    url = "https://github.com/JuliaBinaryWrappers/Shoco_jll.jl/releases/download/Shoco-v2015.10.8+0/Shoco.v2015.10.8.x86_64-linux-gnu.tar.gz"
+[[Shoco]]
+arch = "x86_64"
+git-tree-sha1 = "f99f4aac10721dd466e576e0996ceed080f4b162"
+libc = "musl"
+os = "linux"
+
+    [[Shoco.download]]
+    sha256 = "1fa4ab79da13cbe71395d74064d3ee49e02f2c007ad6bdbb553b9973d693cd88"
+    url = "https://github.com/JuliaBinaryWrappers/Shoco_jll.jl/releases/download/Shoco-v2015.10.8+0/Shoco.v2015.10.8.x86_64-linux-musl.tar.gz"
+[[Shoco]]
+arch = "x86_64"
+git-tree-sha1 = "507b45751319c8cc0103cab00cc80579dead1841"
+os = "freebsd"
+
+    [[Shoco.download]]
+    sha256 = "78a7e69519dbb1129f698be65ecfb1b5cd679f08323672adbbdde017b7ef9bf9"
+    url = "https://github.com/JuliaBinaryWrappers/Shoco_jll.jl/releases/download/Shoco-v2015.10.8+0/Shoco.v2015.10.8.x86_64-unknown-freebsd.tar.gz"
+[[Shoco]]
+arch = "x86_64"
+git-tree-sha1 = "2b150cb410d591738223dd4546e77652470ac2f2"
+os = "windows"
+
+    [[Shoco.download]]
+    sha256 = "003169f6b1022e011e11b3f112f46e20daeb7b070bc477ea14766b98b52ff542"
+    url = "https://github.com/JuliaBinaryWrappers/Shoco_jll.jl/releases/download/Shoco-v2015.10.8+0/Shoco.v2015.10.8.x86_64-w64-mingw32.tar.gz"
